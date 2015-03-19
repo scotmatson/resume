@@ -1,0 +1,42 @@
+Scot Matson
+San Jose, CA
+951-216-5813 | sjpmatson@gmail.com
+http://www.scotmatson.com | http://www.github.com/scotmatson
+
+OBJECTIVE
+Seeking opportunities to be mentored as an intern in a variety of fields in which I can be challenged with, and contribute to, innovative technologies. Experience in Web Development but interested in many facets of software development. 
+
+SKILLS
+Languages/Frameworks: HTML, CSS/Bootstrap, JavaScript/jQuery, JSON, AJAX, PHP, SQL (MySQL/MariaDB, OracleDB), Java, XML, C, C#, Python
+
+Software/CMS: GIMP, Inkscape, Sublime Text, Eclipse, JetBrains, Android Studio, phpMyAdmin, Joomla!, WordPress, GIT/GitHub, Unity3D, FileMaker, SQL Developer, OU Campus, Blender, SourceTree
+
+Operating Systems:  Linux (Pacman/Debian) , Windows, OSX,  Android
+
+EDUCATION
+San Jose State University, San Jose, CA
+B.S., Computer Science
+Area of Focus: Artificial intelligence, machine learning, and computer graphics.
+Anticipated graduation: May 2016
+
+Fresno City College, Fresno, CA
+A.S., Web Development
+Institutional GPA: 3.95
+
+Related Coursework: Full-stack web development, mobile web development, mobile applications, computer operating systems, computer networking, relational databases, game development, Agile, object-oriented programming,  MVC architecture, test-driven development,  eCommerce, user interface/user experience.
+
+EXPERIENCE
+San José State University, San José, CA
+Web Developer Student Assistant, 2014 - Present
+Maintain and update content across 230 web pages which comprise the SJSU Career Center website using OU Campus CMS.
+Develop reusable code snippets to extend the functionality of OU Campus CMS.
+Develop dynamic front-end user templates used by SJSU students and staff members when students are preparing to graduate.
+
+Geekwise Academy, Fresno, CA
+Instructor, 2014
+Collaborated in the development and production of an after school high school web developer boot camp.
+
+Fresno City College, Fresno, CA
+Teacher Assistant, 2013 – 2014
+Assisted in the revision of the web developer course curriculum
+Provided tutorial services and code review for students
